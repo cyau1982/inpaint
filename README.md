@@ -1,0 +1,2 @@
+# inpaint
+Inpaint PixInsight module
